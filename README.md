@@ -23,9 +23,9 @@ Welcome to my GitHub profile! I'm passionate about web development and constantl
 
 Here are some projects I'm proud of:
 
-1. [Study Notion](https://github.com/Ricky-saha/Study-Notion) - Brief description
-2. [Messenger](https://github.com/Ricky-saha/Messenger) - Brief description
-3. [Dice Game](https://github.com/Ricky-saha/Dice-Game) - Brief description
+1. [Study Notion](https://github.com/Ricky-saha/Study-Notion) 
+2. [Messenger](https://github.com/Ricky-saha/Messenger) 
+3. [Dice Game](https://github.com/Ricky-saha/Dice-Game)
 
 
 ### 🎯 Goals for 2024
