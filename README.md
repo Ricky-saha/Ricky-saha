@@ -23,9 +23,11 @@ Welcome to my GitHub profile! I'm passionate about web development and constantl
 
 Here are some projects I'm proud of:
 
-1. [Study Notion](https://github.com/Ricky-saha/Study-Notion) 
-2. [Messenger](https://github.com/Ricky-saha/Messenger) 
-3. [Dice Game](https://github.com/Ricky-saha/Dice-Game)
+1. [Study Notion](https://github.com/Ricky-saha/Study-Notion) A Mern Stack Edtech Application
+2. [Messenger](https://github.com/Ricky-saha/Messenger) A React based Chat Application Using Firebase
+3. [Blog Application](https://github.com/Ricky-saha/Blog-Application) A react based Blog Application using Appwrite
+4. [Dice Game](https://github.com/Ricky-saha/Dice-Game) A react Based Rolling Dice Game
+
 
 
 ### 🎯 Goals for 2024
