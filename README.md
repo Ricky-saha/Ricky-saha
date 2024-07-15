@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ricky Saha
 
-## 🚀 Aspiring Web Developer | 🎓 2nd Year Student at Maharaja Surajmal Institute of Technology
+## 🚀 Aspiring Web Developer | 🎓 3rd Year Student at Maharaja Surajmal Institute of Technology
 
 Welcome to my GitHub profile! I'm passionate about web development and constantly learning new technologies to build amazing web experiences.
 
