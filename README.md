@@ -94,7 +94,6 @@
 - Message read receipts
 - Responsive chat interface
 
-[Rest of the sections remain the same]
 
 ## 🎯 Goals for 2025
 - 🔒 Complete AWS Certified Security Specialty certification
